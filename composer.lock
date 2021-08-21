@@ -5154,7 +5154,7 @@
                 "symfony/http-kernel": "^4.3",
                 "symfony/security-core": "4.4.23",
                 "symfony/security-csrf": "~4.2",
-                "symfony/security-guard": "~4.2",
+                "symfony/security-guard": "4.4.23",
                 "symfony/security-http": "4.4.23"
             },
             "conflict": {
@@ -5237,7 +5237,7 @@
             },
             "conflict": {
                 "symfony/event-dispatcher": "<4.3",
-                "symfony/security-guard": "<4.3"
+                "symfony/security-guard": "4.4.23"
             },
             "require-dev": {
                 "psr/container": "^1.0",
@@ -5349,7 +5349,7 @@
         },
         {
             "name": "symfony/security-guard",
-            "version": "v4.3.11",
+            "version": "v4.4.23",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/security-guard.git",
